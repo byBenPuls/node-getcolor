@@ -45,7 +45,7 @@ console.log(colors.getRGBColor('red'));
 ```
 
 
-### [Donate link](https://yoomoney.ru/transfer/quickpay?requestId=353336363035363832365f62313031313938616234313235363132636364346436393865336436376637623663383937656131) | [My GitHub](https://github.com/byBenPuls)
+### [Donate link](https://yoomoney.ru/transfer/quickpay?requestId=353336363035363832365f62313031313938616234313235363132636364346436393865336436376637623663383937656131) | [My GitHub](https://github.com/byBenPuls) | [NPM](https://www.npmjs.com/package/node-getcolor)
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=byBenPuls&repo=node-getcolor)](https://github.com/byBenPuls/node-getcolor)

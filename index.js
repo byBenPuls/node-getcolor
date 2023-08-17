@@ -2698,3 +2698,8 @@ exports.getRGBColor = (colour) => {
     return rgbColor[colour];
 }
 exports.colors = colors;
+
+
+
+// created by Ben Puls
+// links: https://www.npmjs.com/package/node-getcolor | https://github.com/byBenPuls/node-getcolor

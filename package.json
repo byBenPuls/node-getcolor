@@ -1,0 +1,12 @@
+{
+  "name": "node-getcolor",
+  "version": "1.0.9",
+  "description": "Tool for get colors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["colors", "js"],
+  "author": "Ben Puls",
+  "license": "ISC"
+}

@@ -30,11 +30,14 @@ console.log(`Name: ${randomColor.name} | Code: ${randomColor.code}`);
 ### How to choose a specific color?
 ```javascript
 const colors = require('node-getcolor');
-const spColor = colors.getColor();
 
 // Color name must be written in lower case
-console.log(spColor('lime'));
+console.log(colors.getHexColor('lime'));
 // Console: #7fffd4
+
+// You can get name of color by HEX-code
+console.log(colors.getNameColor('#ffffff'))
+// Console: White
 ```
 
 

@@ -1,5 +1,10 @@
 # GetColor
 
+### Advantages:
+  Huge data HEX and RGB colors
+  Simple and fast interaction
+  Small size packet NPM
+
 ### Installing:
 * Using **npm**:
 

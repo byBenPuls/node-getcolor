@@ -2688,14 +2688,17 @@ exports.getRandomColor = () => {
     return colors[Math.floor(Math.random() * colors.length)];
 }
 exports.getHexColor = (colour) => {
-    return nameColors[colour];
+    const hex = colour.toLowerCase()
+    return nameColors[hex];
 }
 exports.getNameColor = (colour) => {
-    return hexColors[colour];
+    const name = colour.toLowerCase();
+    return hexColors[name];
 }
 
 exports.getRGBColor = (colour) => {
-    return rgbColor[colour];
+    const rgb = colour.toLowerCase();
+    return rgbColor[rgb];
 }
 exports.colors = colors;
 

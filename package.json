@@ -1,6 +1,6 @@
 {
   "name": "node-getcolor",
-  "version": "1.2.7",
+  "version": "1.3.0",
   "description": "Tool for get colors",
   "main": "index.js",
   "scripts": {
@@ -8,5 +8,11 @@
   },
   "keywords": ["colors", "js", "nodejs", "colours"],
   "author": "Ben Puls",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": "byBenPuls/node-getcolor",
+  "files": [
+    "resources/rgb.json",
+    "resources/hex.json",
+    "resources/names.json",
+    "index.js"]
 }
